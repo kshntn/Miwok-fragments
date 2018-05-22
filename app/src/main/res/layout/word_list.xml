@@ -6,7 +6,6 @@
     android:layout_height="match_parent"
     android:id="@+id/list"
     android:orientation="horizontal"
-    android:drawSelectorOnTop="true"
-    tools:context="com.example.android.miwok.NumbersActivity">
+    android:drawSelectorOnTop="true">
 
 </ListView>
